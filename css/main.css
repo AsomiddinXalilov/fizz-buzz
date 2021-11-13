@@ -1,0 +1,16 @@
+.container{
+    max-width: 500px;
+    text-align: center;
+}
+
+.h1{ 
+    color: cornflowerblue;
+}
+
+.one {
+    color: brown;
+}
+
+.two {
+    color: chocolate;
+}
